@@ -1,1 +1,2 @@
-Todo-React
+Todo List
+React, JavaScript
